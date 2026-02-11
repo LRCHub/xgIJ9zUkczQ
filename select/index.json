@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "窮鼠",
+  "base_artist": "Sasanomaly",
+  "createdAt": "2026-02-11T10:00:37.097291Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "窮鼠",
+      "artist": "Sasanomaly",
+      "has_synced": false,
+      "path": "select/01_窮鼠_Sasanomaly.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "窮鼠",
+      "artist": "ササノマリイ",
+      "has_synced": false,
+      "path": "select/pl_01_窮鼠_ササノマリイ.txt"
+    }
+  ]
+}
